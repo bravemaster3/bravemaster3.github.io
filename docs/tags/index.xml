@@ -7,11 +7,35 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Wed, 17 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.stack.jimmycai.com/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Example Tag</title>
-        <link>https://demo.stack.jimmycai.com/tags/example-tag/</link>
+        <title>ALX</title>
+        <link>https://demo.stack.jimmycai.com/tags/alx/</link>
         <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://demo.stack.jimmycai.com/tags/example-tag/</guid>
+        <guid>https://demo.stack.jimmycai.com/tags/alx/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>google</title>
+        <link>https://demo.stack.jimmycai.com/tags/google/</link>
+        <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://demo.stack.jimmycai.com/tags/google/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Software Engineering</title>
+        <link>https://demo.stack.jimmycai.com/tags/software-engineering/</link>
+        <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://demo.stack.jimmycai.com/tags/software-engineering/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Web stack</title>
+        <link>https://demo.stack.jimmycai.com/tags/web-stack/</link>
+        <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://demo.stack.jimmycai.com/tags/web-stack/</guid>
         <description></description>
         </item>
         <item>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>ALX on Koffi Dodji Noumonvi</title>
+        <link>https://demo.stack.jimmycai.com/tags/alx/</link>
+        <description>Recent content in ALX on Koffi Dodji Noumonvi</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 17 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.stack.jimmycai.com/tags/alx/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>What happens when I access www.google.com?</title>
+        <link>https://demo.stack.jimmycai.com/p/internet/</link>
+        <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://demo.stack.jimmycai.com/p/internet/</guid>
+        <description>&lt;img src="https://demo.stack.jimmycai.com/p/internet/cover.jpg" alt="Featured image of post What happens when I access www.google.com?" /&gt;&lt;h1 id=&#34;the-journey-of-a-url-demystifying-the-web-stack&#34;&gt;The Journey of a URL: Demystifying the Web Stack&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;When you type &lt;a class=&#34;link&#34; href=&#34;https://www.google.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.google.com&lt;/a&gt; into your browser and hit Enter, you initiate a complex sequence of events that seamlessly brings the Google homepage to your screen. In this blog post, we&amp;rsquo;ll unravel the layers of the web stack and explore the integral components that make this magic happen.&lt;/p&gt;
+&lt;h2 id=&#34;1-dns-request&#34;&gt;1. DNS Request&lt;/h2&gt;
+&lt;p&gt;The journey begins with a DNS (Domain Name System) request. Your browser sends a request to a DNS server to resolve the human-readable domain name &lt;a class=&#34;link&#34; href=&#34;www.google.com&#34; &gt;www.google.com&lt;/a&gt; into an IP address. The DNS server responds with the IP address associated with Google&amp;rsquo;s servers, allowing your browser to locate the destination on the internet.&lt;/p&gt;
+&lt;h2 id=&#34;2-tcpip&#34;&gt;2. TCP/IP&lt;/h2&gt;
+&lt;p&gt;Once armed with the IP address, your browser initiates a TCP/IP (Transmission Control Protocol/Internet Protocol) connection to establish a reliable communication channel with the destination server. TCP ensures that data is sent and received accurately, while IP facilitates the routing of information across the internet.&lt;/p&gt;
+&lt;h2 id=&#34;3-firewall&#34;&gt;3. Firewall&lt;/h2&gt;
+&lt;p&gt;As your request traverses the internet, it encounters firewalls – security measures designed to monitor and control incoming and outgoing network traffic. Firewalls play a crucial role in protecting the web server from potential threats by filtering or blocking unauthorized access.&lt;/p&gt;
+&lt;h2 id=&#34;4-httpsssl&#34;&gt;4. HTTPS/SSL&lt;/h2&gt;
+&lt;p&gt;The use of HTTPS (Hypertext Transfer Protocol Secure) ensures a secure communication channel between your browser and the web server. SSL (Secure Sockets Layer) or its successor TLS (Transport Layer Security) encrypts the data exchanged, safeguarding it from eavesdroppers and ensuring the integrity and authenticity of the information.&lt;/p&gt;
+&lt;h2 id=&#34;5-load-balancer&#34;&gt;5. Load-Balancer&lt;/h2&gt;
+&lt;p&gt;To distribute incoming web traffic efficiently, large websites like Google employ load balancers. Load balancers distribute requests across multiple servers to optimize resource utilization, enhance reliability, and minimize response time. This ensures a seamless user experience, even during periods of high traffic.&lt;/p&gt;
+&lt;h2 id=&#34;6-web-server&#34;&gt;6. Web Server&lt;/h2&gt;
+&lt;p&gt;The request reaches one of Google&amp;rsquo;s web servers, responsible for handling HTTP requests, processing server-side logic, and generating dynamic content. The web server retrieves the requested resources, such as HTML, CSS, and JavaScript files, and sends them back to the browser through the established TCP/IP connection.&lt;/p&gt;
+&lt;h2 id=&#34;7-application-server&#34;&gt;7. Application Server&lt;/h2&gt;
+&lt;p&gt;In more complex web applications, an application server may come into play. It executes server-side code, processes business logic, and interacts with databases. In the case of Google, the application server manages the dynamic elements on the page, like search suggestions and personalized content.&lt;/p&gt;
+&lt;h2 id=&#34;8-database&#34;&gt;8. Database&lt;/h2&gt;
+&lt;p&gt;For data storage and retrieval, web applications often rely on databases. Google&amp;rsquo;s servers interact with a vast and highly optimized database to fetch and present relevant information. This could include user preferences, search history, and indexed web content.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;The journey of a URL from your browser to the Google homepage is a symphony of interconnected technologies and protocols. Understanding the intricacies of the web stack is essential for anyone navigating the world of software engineering. As we&amp;rsquo;ve explored, from DNS resolution to database interactions, each component plays a crucial role in delivering the seamless user experience we&amp;rsquo;ve come to expect.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

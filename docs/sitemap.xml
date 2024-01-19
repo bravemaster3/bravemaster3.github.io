@@ -8,22 +8,31 @@
     <loc>https://demo.stack.jimmycai.com/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/categories/</loc>
+    <loc>https://demo.stack.jimmycai.com/tags/alx/</loc>
+    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://demo.stack.jimmycai.com/categories/alx-journey/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://demo.stack.jimmycai.com/categories/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/categories/example-category/</loc>
+    <loc>https://demo.stack.jimmycai.com/categories/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/tags/example-tag/</loc>
+    <loc>https://demo.stack.jimmycai.com/tags/google/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://demo.stack.jimmycai.com/post/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://demo.stack.jimmycai.com/tags/software-engineering/</loc>
+    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://demo.stack.jimmycai.com/tags/</loc>
+    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://demo.stack.jimmycai.com/tags/web-stack/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://demo.stack.jimmycai.com/tags/css/</loc>
@@ -78,6 +87,8 @@
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>https://demo.stack.jimmycai.com/categories/alx-journey/</loc>
+  </url><url>
+    <loc>https://demo.stack.jimmycai.com/categories/example-category/</loc>
   </url><url>
     <loc>https://demo.stack.jimmycai.com/links/</loc>
   </url><url>

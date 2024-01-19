@@ -1,12 +1,15 @@
 ---
 categories:
-- Example Category
+- ALX-Journey
 date: 2024-01-17 00:00:00+0000
 description: DNS and Webstack
 image: cover.jpg
 slug: internet
 tags:
-- Example Tag
+- ALX
+- Software Engineering
+- Web stack
+- google
 title: What happens when I access www.google.com?
 weight: 1
 ---
