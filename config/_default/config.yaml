@@ -1,4 +1,4 @@
-baseurl: https://demo.stack.jimmycai.com
+baseurl: https://bravemaster3.github.io
 publishDir: docs
 languageCode: en-us
 paginate: 5

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Software Engineering on Koffi Dodji Noumonvi</title>
-        <link>https://demo.stack.jimmycai.com/tags/software-engineering/</link>
+        <link>https://bravemaster3.github.io/tags/software-engineering/</link>
         <description>Recent content in Software Engineering on Koffi Dodji Noumonvi</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 17 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.stack.jimmycai.com/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 17 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bravemaster3.github.io/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>What happens when I access www.google.com?</title>
-        <link>https://demo.stack.jimmycai.com/p/internet/</link>
+        <link>https://bravemaster3.github.io/p/internet/</link>
         <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://demo.stack.jimmycai.com/p/internet/</guid>
-        <description>&lt;img src="https://demo.stack.jimmycai.com/p/internet/cover.jpg" alt="Featured image of post What happens when I access www.google.com?" /&gt;&lt;h1 id=&#34;the-journey-of-a-url-demystifying-the-web-stack&#34;&gt;The Journey of a URL: Demystifying the Web Stack&lt;/h1&gt;
+        <guid>https://bravemaster3.github.io/p/internet/</guid>
+        <description>&lt;img src="https://bravemaster3.github.io/p/internet/cover.jpg" alt="Featured image of post What happens when I access www.google.com?" /&gt;&lt;h1 id=&#34;the-journey-of-a-url-demystifying-the-web-stack&#34;&gt;The Journey of a URL: Demystifying the Web Stack&lt;/h1&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;When you type &lt;a class=&#34;link&#34; href=&#34;https://www.google.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://www.google.com&lt;/a&gt; into your browser and hit Enter, you initiate a complex sequence of events that seamlessly brings the Google homepage to your screen. In this blog post, we&amp;rsquo;ll unravel the layers of the web stack and explore the integral components that make this magic happen.&lt;/p&gt;
